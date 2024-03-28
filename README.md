@@ -26,7 +26,7 @@ Leveraging its ORM for efficient database interactions and asynchronous task pro
 Tech Stack for Development
 
 <a href="#">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Praxedes&theme=react&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs" align="right"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Praxedes&theme=react&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs" align="right" width="450px"/>
 </a>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
