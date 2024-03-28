@@ -25,7 +25,9 @@ Leveraging its ORM for efficient database interactions and asynchronous task pro
 
 Tech Stack for Development
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Praxedes&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" min-width="400px" max-width="400px" width="400px" align="right"/>
+<a href="#">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Praxedes&theme=react&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs" align="right"/>
+</a>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Rest-ff1709?style=flat&logo=django&logoColor=white&color=ff1709)
@@ -52,8 +54,6 @@ Tech Stack for Development
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 Databases and Cloud Services
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipe-Praxedes&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" min-width="400px" max-width="400px" width="400px" align="right"/>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
