@@ -15,7 +15,7 @@ Leveraging its ORM for efficient database interactions and asynchronous task pro
 💬 Feel free to reach out to me for any inquiries or questions!
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:felipe_zanata@outlook.com)](mailto:felipe_zanata@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-zanata-23069617b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-zanata/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511992022640)
 
 ![](https://komarev.com/ghpvc/?username=Felipe-Praxedes&color=006bed)
