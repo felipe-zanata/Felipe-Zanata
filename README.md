@@ -1,4 +1,3 @@
-
 ### Hello everyone! Felipe here, Welcome to my Github. 👋
 ## I'm working as a software developer, specializing in custom software solutions.
 
@@ -26,7 +25,7 @@ Leveraging its ORM for efficient database interactions and asynchronous task pro
 Tech Stack for Development
 
 <a href="#">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Praxedes&theme=react&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs" align="right" width="450px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Praxedes&theme=react&include_all_commits=true&count_private=true&show_icons=true&hide=issues" align="right" width="450px"/>
 </a>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
@@ -53,6 +52,8 @@ Tech Stack for Development
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Praxedes&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=7" align="right"/>
 
 Databases and Cloud Services
 
