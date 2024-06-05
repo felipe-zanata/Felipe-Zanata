@@ -17,8 +17,8 @@ Leveraging its ORM for efficient database interactions and asynchronous task pro
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-zanata/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511992022640)
 
-![](https://komarev.com/ghpvc/?username=Felipe-Praxedes&color=006bed)
-[![GitHub](https://img.shields.io/github/followers/Felipe-Praxedes?label=follow&style=social)](https://github.com/Felipe-Praxedes)
+![](https://komarev.com/ghpvc/?username=Felipe-Zanata&color=006bed)
+[![GitHub](https://img.shields.io/github/followers/Felipe-Zanata?label=follow&style=social)](https://github.com/Felipe-Zanata)
 
 ## Knowledge 🌱
 
